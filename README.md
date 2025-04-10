@@ -24,8 +24,8 @@ linear_regression/
 - Loss curve over training epochs
 
 ## Dataset Description
-- The dataset used is a simplified version extracted from a real-world housing dataset (California Housing)
-- Only one feature (AveRooms or another) and the target (MedHouseVal) are used to keep the visualization simple and interpretable
+- The dataset used is a simplified version extracted from a sklearn diabetes dataset
+- Only one feature(bmi) and the target are used to keep the visualization simple and interpretable
 - The data is stored in data.csv
 
 ## Example Visualizations
