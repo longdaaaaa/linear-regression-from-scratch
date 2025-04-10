@@ -29,6 +29,6 @@ linear_regression/
 - The data is stored in data.csv
 
 ## Example Visualizations
-- Training Data Scatter Plot
-- Regression Line Learned (Scratch Version)
-- Loss Curve
+- Training Data Scatter Plot![Training Data Scatter Plot](data.png)
+- Regression Line Learned (Scratch Version)![Regression Line Learned](save.png)
+- Loss Curve![Loss Curve](loss.png)
